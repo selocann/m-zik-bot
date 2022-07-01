@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "10731326",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "ff9f63cfd6dc3d61fb7e1f2e4eb50cd3",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5428694548:AAEd4VaSbGUNzL_hs5YXkt5jfve7JNBJWUw",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -45,12 +45,12 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5207201048",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BADGEd10IfNbt1tjQQo5GWd5U4KgUPKMpkmHtuzmqAaa32WOAhqeO7Dw5BELoI7LU7zS4l46LyDoJC4cCCiRes0cmYISq6SoUXVNnZwJ5seXy0M5KB2Tsl_3s-USOytHIU0JnQkp4ch95PsnUne8LEdXsWqGqY_LWbYv3HZHCwVTHW5fIDk8Oyu7dNSdQb72OD1wsI63flqpny3s6RcuFWAQsjIjWX_e0bXyLo00nur_k01YexE02_yy_uQK-9dfAMrPT9PNMKuBQX-SiANie3YnMH4EREpi7cIO2YFiPN6eTFds9_p3w97bIGm2r4a65dZ0t9nJ-fJXIrLv0kp7dlCCAAAAATCVt28A",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -65,7 +65,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001635496046",
         "required": true
       },
       "UPSTREAM_REPO": {
